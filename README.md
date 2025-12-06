@@ -28,5 +28,3 @@ Dafit Saputra Utama
 
 
 ---
-
-Kalau mau, aku juga bisa: ✅ Rapikan versi full portfolio ✅ Atau ubah ke versi bahasa Inggris untuk recruiter

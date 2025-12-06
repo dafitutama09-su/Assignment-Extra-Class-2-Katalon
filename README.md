@@ -8,8 +8,8 @@ Project ini merupakan automation testing pada website e-commerce demo menggunaka
 1. Login
 2. Product Sorting
 3. Add to Cart
-4. Checkout Process
-Setiap test case dilengkapi dengan assertion (verify element dan verify text) untuk memastikan hasil sesuai dengan yang diharapkan.
+4. Checkout
+Process Setiap test case dilengkapi dengan assertion (verify element dan verify text) untuk memastikan hasil sesuai dengan yang diharapkan.
 
 ## Tools
 Katalon Studio
